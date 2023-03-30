@@ -76,7 +76,7 @@
                 </div>
                 <div class="icon-box-content table-cell">
                   <div class="icon-box-title">
-                    <h4 class="icon-title">Say Hello</h4>
+                    <h4 class="icon-title">Say  Hello</h4>
                   </div>
                   <div class="icon-box-content">
                     <p class="mb-1">Email.
